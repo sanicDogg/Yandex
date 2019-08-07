@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556141090 source:c:\users\user\documents\codeblocks\yandex\taskb\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
